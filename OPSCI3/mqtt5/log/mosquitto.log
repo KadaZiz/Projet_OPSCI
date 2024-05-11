@@ -1,0 +1,60 @@
+1715444410: mosquitto version 2.0.18 starting
+1715444410: Config loaded from /mosquitto/config/mosquitto.conf.
+1715444410: Opening ipv4 listen socket on port 1883.
+1715444410: Opening ipv6 listen socket on port 1883.
+1715444410: Opening websockets listen socket on port 9001.
+1715444410: mosquitto version 2.0.18 running
+1715444410: New client connected from ::ffff:192.168.65.1:51317 as mqttjs_d5d56ca8 (p2, c1, k60).
+1715444435: mosquitto version 2.0.18 terminating
+1715444435: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715444435: Client mqttjs_d5d56ca8 closed its connection.
+1715444436: mosquitto version 2.0.18 starting
+1715444436: Config loaded from /mosquitto/config/mosquitto.conf.
+1715444436: Opening ipv4 listen socket on port 1883.
+1715444436: Opening ipv6 listen socket on port 1883.
+1715444436: Opening websockets listen socket on port 9001.
+1715444436: mosquitto version 2.0.18 running
+1715444437: New client connected from ::ffff:192.168.65.1:24175 as mqttjs_d5d56ca8 (p2, c1, k60).
+1715444451: mosquitto version 2.0.18 terminating
+1715444451: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715444451: Client mqttjs_d5d56ca8 closed its connection.
+1715444453: mosquitto version 2.0.18 starting
+1715444453: Config loaded from /mosquitto/config/mosquitto.conf.
+1715444453: Opening ipv4 listen socket on port 1883.
+1715444453: Opening ipv6 listen socket on port 1883.
+1715444453: Opening websockets listen socket on port 9001.
+1715444453: mosquitto version 2.0.18 running
+1715444454: New client connected from ::ffff:192.168.65.1:55337 as mqttjs_d5d56ca8 (p2, c1, k60).
+1715444458: Client mqttjs_d5d56ca8 closed its connection.
+1715444459: New client connected from ::ffff:192.168.65.1:21512 as mqttjs_7478eb27 (p2, c1, k60).
+1715444496: New connection from 192.168.65.1:52073 on port 1883.
+1715444497: Client <unknown> disconnected due to protocol error.
+1715444498: New connection from 192.168.65.1:61305 on port 1883.
+1715444498: Client <unknown> disconnected due to protocol error.
+1715444499: New connection from 192.168.65.1:65261 on port 1883.
+1715444499: Client <unknown> disconnected due to protocol error.
+1715444500: New connection from 192.168.65.1:61090 on port 1883.
+1715444500: Client <unknown> disconnected due to protocol error.
+1715444501: New connection from 192.168.65.1:62169 on port 1883.
+1715444501: Client <unknown> disconnected due to protocol error.
+1715444502: New connection from 192.168.65.1:55048 on port 1883.
+1715444502: Client <unknown> disconnected due to protocol error.
+1715444502: New client connected from ::ffff:192.168.65.1:54924 as mqttjs_ee9945d2 (p2, c1, k60).
+1715444517: Client mqttjs_ee9945d2 disconnected.
+1715444517: New client connected from ::ffff:192.168.65.1:28911 as mqttjs_16c1948f (p2, c1, k60).
+1715444558: Client mqttjs_16c1948f disconnected.
+1715444558: New client connected from ::ffff:192.168.65.1:31958 as mqttjs_680edd4f (p2, c1, k60).
+1715446254: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1715446841: Client mqttjs_7478eb27 closed its connection.
+1715447434: New connection from ::1:40286 on port 1883.
+1715447434: New client connected from ::1:40286 as auto-BF9ACE19-4E48-6330-2ECF-AB781E2DD7A6 (p2, c1, k60).
+1715447462: Client mqttjs_680edd4f disconnected.
+1715447462: New client connected from ::ffff:192.168.65.1:25078 as mqttjs_69ecd436 (p2, c1, k60).
+1715447631: Client mqttjs_69ecd436 disconnected.
+1715447631: New client connected from ::ffff:192.168.65.1:28971 as mqttjs_1f0cdc38 (p2, c1, k60).
+1715447677: New client connected from ::ffff:192.168.65.1:26283 as mqttjs_24168514 (p2, c1, k60).
+1715447684: Client mqttjs_1f0cdc38 disconnected.
+1715447684: New client connected from ::ffff:192.168.65.1:23927 as mqttjs_97b49a85 (p2, c1, k60).
+1715447714: Client mqttjs_97b49a85 disconnected.
+1715447714: New client connected from ::ffff:192.168.65.1:20163 as mqttjs_f82b7079 (p2, c1, k60).
+1715448055: Saving in-memory database to /mosquitto/data//mosquitto.db.
